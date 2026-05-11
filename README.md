@@ -1,10 +1,13 @@
-# Nadika-Creative-House
-Media Content Factory of LANDORA KZ Holding. Creative industries, digital arts, and blockchain-integrated design.
+
 
 # Nadika Creative House 🌿
 **A Multi-Dimensional Content Factory | Media Division of LANDORA KZ Holding**
 
 [English](#english) | [Русский](#русский)
+
+<img width="500" height="300" alt="Logo_Eng" src="https://github.com/user-attachments/assets/fb340a08-94cc-4b3b-8c9b-2608378ba289" />
+<img width="500" height="300" alt="Logo_Rus" src="https://github.com/user-attachments/assets/565cafbe-e2b1-405c-a1d3-61024424e94b" />
+<img width="500" height="300" alt="Logo_Ger" src="https://github.com/user-attachments/assets/b6abfb27-abcb-4831-9149-698a70b4c06c" />
 
 ---
 
