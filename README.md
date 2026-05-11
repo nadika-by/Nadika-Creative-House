@@ -4,31 +4,35 @@ Media Content Factory of LANDORA KZ Holding. Creative industries, digital arts, 
 # Nadika Creative House 🌿
 **A Multi-Dimensional Content Factory | Media Division of LANDORA KZ Holding**
 
-Welcome to the digital archive of Nadika Creative House. We are a production hub specializing in creating deep-meaning content at the intersection of technology, art, and metaphysics.
+[English](#english) | [Русский](#русский)
 
 ---
 
-## 🚀 Active Project: Solana Summit Kazakhstan (Bounty)
-This repository contains the official entry for the Solana Summit Merchandise Design Bounty.
+<a name="english"></a>
+## 🇬🇧 English Version
+Welcome to the digital archive of **Nadika Creative House**. We are a production hub specializing in creating deep-meaning content at the intersection of technology, art, and metaphysics.
 
-### [View the Project Materials](./Solana-Summit-Bounty-Merch/)
+As a part of **LANDORA KZ Holding**, we transform creativity into a scalable industrial asset.
 
-**Concept: "The Cyber Nomad & Fire Horse"**
-The design symbolizes the dynamic energy of the **2026 Fire Horse**—a year of speed and transformation. We’ve merged the spirit of the Great Steppe with the high-tech vibrations of the Solana ecosystem.
-
-* **Mockups:** High-quality visual presentations of apparel and accessories.
-* **Source Files:** Production-ready vector assets (Light/Dark versions).
-* **Art Style:** Cyber-symbolism with deep astrological and numerological alignment.
+### Our Production Lines:
+* **Visual Arts & Branding** (Conceptual design, industrial identity)
+* **Metadata & Symbols** (Astrology, Numerology, Tarot integration)
+* **Audio-Visual Content** (Music, sound design, soul-filled words)
+* **Ecosystem Support** (Media assets for Green Titans and circular economy projects)
 
 ---
 
-## 🏛 About the House
-Nadika Creative House operates as an industrial content factory for **LANDORA KZ Holding**. We develop creative assets for:
-* **Green Titans** (Circular Economy Industrial Project)
-* Corporate identity and visual architecture
-* Music, astrology, and spiritual content production
+<a name="русский"></a>
+## 🇷🇺 Русская версия
+Добро пожаловать в цифровой архив **Дома Творчества Nadika**. Мы — производственный центр холдинга **LANDORA KZ**, создающий контент на стыке технологий, искусства и метафизики.
 
-**Our Vision:** Transforming creativity into a scalable industrial asset.
+### Наши производственные направления:
+* **Визуальное искусство и Брендинг** (Концептуальный дизайн, индустриальная айдентика).
+* **Смыслы и Символы** (Астрология, нумерология, работа с картами Таро).
+* **Аудио-визуальный контент** (Музыка, звуковой дизайн, работа со смыслом слова).
+* **Поддержка экосистем** (Медиа-материалы для Green Titans и проектов цикличной экономики).
+
+**Наша миссия:** Наполнение цифровых и промышленных объектов душой и глубоким смыслом.
 
 ---
 *Created by Nadika | 2026*
